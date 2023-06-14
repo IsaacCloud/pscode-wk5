@@ -1,0 +1,71 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+(Your pseudocode here)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+SUM = Integer1 + Integer2
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+If Int1 || Int2 %/2 == 0
+	then print ("Number is even")
+		else print ("Number is odd")
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Read Int1,Int2,Int3,Int4,Int5
+
+AVG = Sum(Int1,Int2,Int3,Int4,Int5)/5
+
+If Int1 > Int2 && Int3 && Int4 && Int5
+	Then Set Int1 as MAX
+		Else Do Nothing
+
+If Int1 <Int2 && Int3 && Int4 && Int5
+	Then Set Int1 as MIN
+		Else Do Nothing
+
+If Int2 > Int1 && Int3 && Int4 && Int5
+	Then Set Int1 as MAX
+		Else Do Nothing
+
+If Int2 <Int1 && Int3 && Int4 && Int5
+	Then Set Int1 as MIN
+		Else Do Nothing
+
+If Int3 > Int1 && Int2 && Int4 && Int5
+	Then Set Int1 as MAX
+		Else Do Nothing
+
+If Int3 <Int1 && Int2 && Int4 && Int5
+	Then Set Int1 as MIN
+		Else Do Nothing
+
+If Int4 > Int1 && Int1 && Int3 && Int5
+	Then Set Int1 as MAX
+		Else Do Nothing
+
+If Int4 <Int1 && Int2 && Int3 && Int5
+	Then Set Int1 as MIN
+		Else Do Nothing
+
+If Int5 > Int2 && Int2 && Int3 && Int4
+	Then Set Int1 as MAX
+		Else Do Nothing
+
+If Int5 <Int1 && Int2 && Int2 && Int4
+	Then Set Int1 as MIN
+		Else Do Nothing
+
+Then
+
+Print "The Average is") AVG
+Print "The smallest number") is MIN
+Print "The largest number") is MAX
+
+-- END --
