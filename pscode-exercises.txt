@@ -64,8 +64,8 @@ If Int5 <Int1 && Int2 && Int2 && Int4
 
 Then
 
-Print "The Average is") AVG
-Print "The smallest number") is MIN
-Print "The largest number") is MAX
+Print ("The Average is") is AVG
+Print ("The smallest number") is MIN
+Print ("The largest number") is MAX
 
 -- END --
